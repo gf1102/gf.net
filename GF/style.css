@@ -1,0 +1,40 @@
+nav {
+    background-color: #171717;
+    padding: 10px 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 100px;
+    font-size: 16px;
+    font-family: 'impact';
+    justify-content: center;
+    text-decoration: none;
+}
+
+body {
+    background-color: #222222;
+    font-family: Arial, sans-serif;
+    
+    margin: 0;
+    padding: 0;
+}
+
+.intro {
+    text-align: center;
+}
+
+.intro h1 {
+    color: #efdd5a;
+    font-family: 'against myself';
+    font-size: 70px;
+    margin-bottom: 1px;
+}
+
+.intro h2 {
+    color: #fdf5bf;
+    font-family:'impact';
+    font-size: 50px;
+    margin-top: 15px;
+}
